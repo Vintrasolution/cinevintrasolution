@@ -1,8 +1,8 @@
 {
-  "version_code": 1,
-  "version_name": "2.0.0",
+  "version_code": 2,
+  "version_name": "2.1.0",
   "apk_url": "https://github.com/vintrasolution/cinevintrasolution/releases/download/v2.0.0/CineVintraTV-v2.0.0.apk",
-  "changelog": "- Phiên bản đầu tiên\n- Xem phim OPhim, NguonC, KKPhim\n- Yêu thích, lịch sử, tìm kiếm giọng nói",
+  "changelog": "- Update More 30pages Films",
   "required": false
 }
 ```
