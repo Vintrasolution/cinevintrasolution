@@ -1,7 +1,7 @@
 {
-  "version_code": 4,
-  "version_name": "4.0.0",
-  "apk_url": "https://github.com/vintrasolution/cinevintrasolution/releases/download/v4.0.0/CineVintraTV-v4.0.0.apk",
+  "version_code": 5,
+  "version_name": "5.0.0",
+  "apk_url": "https://github.com/vintrasolution/cinevintrasolution/releases/download/v5.0.0/CineVintraTV-v5.0.0.apk",
   "changelog": "- Splash screen mascot\n- Preload phim 100%\n- Lịch sử tìm kiếm\n- Fix auto-update",
   "required": false
 }
