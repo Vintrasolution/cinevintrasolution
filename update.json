@@ -1,6 +1,6 @@
 {
-  "version_code": 2,
-  "version_name": "2.1.0",
+  "version_code": 3,
+  "version_name": "3.0.0",
   "apk_url": "https://github.com/vintrasolution/cinevintrasolution/releases/download/v2.1.0/CineVintraTV-v2.1.0.apk",
   "changelog": "- Sửa lỗi filter Thuyết Minh\n- Thêm lịch sử tìm kiếm\n- Splash screen",
   "required": false
