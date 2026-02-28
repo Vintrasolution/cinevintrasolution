@@ -1,30 +1,24 @@
 {
   "version_code": 2,
   "version_name": "2.1.0",
-  "apk_url": "https://github.com/vintrasolution/cinevintrasolution/releases/download/v2.0.0/CineVintraTV-v2.0.0.apk",
-  "changelog": "- Update More 30pages Films",
+  "apk_url": "https://github.com/vintrasolution/cinevintrasolution/releases/download/v2.1.0/CineVintraTV-v2.1.0.apk",
+  "changelog": "- Sửa lỗi filter Thuyết Minh\n- Thêm lịch sử tìm kiếm\n- Splash screen",
   "required": false
 }
 ```
 
-4. Bấm **"Commit changes"**
+3. Commit → **Tất cả TV box mở app sẽ thấy thông báo cập nhật** ✅
 
 ---
 
-### Bước 3: Tạo Release đầu tiên + Upload APK
-
-1. Trong repo, bấm **"Releases"** (cột bên phải) → **"Create a new release"**
-2. Điền:
-   - **Tag**: `v2.0.0` (gõ rồi chọn "Create new tag")
-   - **Release title**: `CiNéVintra TV v2.0.0`
-   - **Description**: Ghi changelog
-3. Kéo xuống phần **"Attach binaries"** → kéo thả file **APK** vào (file `app-debug.apk` đổi tên thành `CineVintraTV-v2.0.0.apk`)
-4. Bấm **"Publish release"**
-
----
-
-### Bước 4: Kiểm tra URL hoạt động
-
-Mở trình duyệt, truy cập:
+### Tóm tắt cấu trúc repo:
 ```
-https://raw.githubusercontent.com/vintrasolution/cinevintrasolution/main/update.json
+vintrasolution/cinevintrasolution/
+├── README.md
+├── update.json          ← App đọc file này để check version
+└── Releases/
+    ├── v2.0.0/
+    │   └── CineVintraTV-v2.0.0.apk
+    ├── v2.1.0/
+    │   └── CineVintraTV-v2.1.0.apk
+    └── ...
