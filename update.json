@@ -2,6 +2,6 @@
   "version_code": 5,
   "version_name": "5.0.0",
   "apk_url": "https://github.com/vintrasolution/cinevintrasolution/releases/download/v5.0.0/CineVintraTV-v5.0.0.apk",
-  "changelog": "- Splash screen mascot\n- Preload phim 100%\n- Lịch sử tìm kiếm\n- Fix auto-update",
+  "changelog": "- Tăng trang tìm kiếm 20page\n- Fix Preload phim 100%\n- Load cached chuẩn hơi\n- fix bugs",
   "required": false
 }
