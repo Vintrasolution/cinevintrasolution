@@ -1,0 +1,30 @@
+{
+  "version_code": 1,
+  "version_name": "2.0.0",
+  "apk_url": "https://github.com/vintrasolution/cinevintrasolution/releases/download/v2.0.0/CineVintraTV-v2.0.0.apk",
+  "changelog": "- Phiên bản đầu tiên\n- Xem phim OPhim, NguonC, KKPhim\n- Yêu thích, lịch sử, tìm kiếm giọng nói",
+  "required": false
+}
+```
+
+4. Bấm **"Commit changes"**
+
+---
+
+### Bước 3: Tạo Release đầu tiên + Upload APK
+
+1. Trong repo, bấm **"Releases"** (cột bên phải) → **"Create a new release"**
+2. Điền:
+   - **Tag**: `v2.0.0` (gõ rồi chọn "Create new tag")
+   - **Release title**: `CiNéVintra TV v2.0.0`
+   - **Description**: Ghi changelog
+3. Kéo xuống phần **"Attach binaries"** → kéo thả file **APK** vào (file `app-debug.apk` đổi tên thành `CineVintraTV-v2.0.0.apk`)
+4. Bấm **"Publish release"**
+
+---
+
+### Bước 4: Kiểm tra URL hoạt động
+
+Mở trình duyệt, truy cập:
+```
+https://raw.githubusercontent.com/vintrasolution/cinevintrasolution/main/update.json
