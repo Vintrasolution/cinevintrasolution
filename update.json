@@ -1,7 +1,7 @@
 {
   "version_code": 6,
   "version_name": "6.0.0",
-  "apk_url": "https://github.com/vintrasolution/cinevintrasolution/releases/download/v6.0.0/CineVintraTV-v6.0.0.apk",
+  "apk_url": "https://github.com/vintrasolution/cinevintrasolution/releases/download/v6.0.0/CineVintraTV-update.apk",
   "changelog": "- Đổi nguồn API App\n- Fix Preload phim 100%\n- Load cached chuẩn hơi\n- fix bugs",
   "required": false
 }
